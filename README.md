@@ -7,7 +7,7 @@ Sparkify want to analyze their data they've been collectiong on songs and user a
 
 ### Schema
 
-The schema is as below for the Sparkify database, it utilises a star schema with song_plays as a fact table and users, artists, time and songs all dimension tables
+The schema is as below for the Sparkify database, it utilises a star schema with song_plays as a fact table and users, artists, time and songs all dimension tables. (PK denotes primary key)
 
 ![Blank diagram (1)](https://user-images.githubusercontent.com/46905748/103463089-bcb26700-4d21-11eb-9be5-2f56bd982a11.png)
 
